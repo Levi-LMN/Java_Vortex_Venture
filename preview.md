@@ -40,4 +40,3 @@
    - Documentation and Testing: Focus on documenting your code and testing it thoroughly to ensure reliability.
    - Iterative Development: Don't hesitate to iterate on your project, making improvements and refining your code.
 
-Remember, practical experience and hands-on projects are crucial for reinforcing your learning. As you progress, seek out additional resources, participate in coding communities, and stay curious to continue expanding your skills.
