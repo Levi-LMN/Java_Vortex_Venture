@@ -1,4 +1,4 @@
-#Course outline
+**Java**
 
 1. **Basics of Java:**
    - Understand variables and data types: Learn how to declare and use variables to store different types of data.
