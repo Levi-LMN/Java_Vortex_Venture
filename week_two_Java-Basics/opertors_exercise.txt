@@ -1,0 +1,26 @@
+Operators Exercise
+Evaluate the following expressions
+1. System.out.println(30+= 70);
+2. System.out.println(10*=3);
+3. System.out.println(50/= 2);
+4. System.out.println(20/=3);
+5. System.out.println(45%= 7);
+6. System.out.println(13<3 & 40<100);
+7. System.out.println(13<3 | 40<100);
+8. System.out.println(13<3 && 40<100);
+9. System.out.println(13<3 || 40<100);
+10. System.out.println(((13<<3)<100));
+11. System.out.println(Math.pow((13>>2),3));
+12. System.out.println((Math.pow((13>>2),3)<100));
+Given
+int x=15;
+13. What is the output of System.out.println(x++);
+14. What is the output of System.out.println(++x);
+15. What is the output of System.out.println(x--;
+16. What is the output of System.out.println(--x);
+17. What is the output of System.out.println(x%=7);
+18. What is the output of System.out.println(225%x);
+19. What is the output of System.out.println(x>>=2);
+20. What is the output of System.out.println(x>>>=2);
+21. What is the output of System.out.println(Math.pow((x>>=2),3))
+22. What is the output of System.out.println(Math.pow((x>>>=2),3)<=100));
