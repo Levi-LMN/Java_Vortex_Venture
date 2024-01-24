@@ -1,6 +1,5 @@
 /*
 Write Java program using the += operator and the while loop to generate the sum of 1 to 100
-
  */
 public class loop_operator {
     public static void main(String[] args) {
@@ -13,3 +12,4 @@ public class loop_operator {
         System.out.println("The sum of 1 to 100 is :\t" + sum);
     }
 }
+
