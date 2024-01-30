@@ -2,6 +2,7 @@
 /*
 write a program to calculate the area of a circle
  */
+import java.util.Scanner;
 public class circle_area {
     public static void main(String[] args) {
         Scanner myinput = new Scanner(System.in);

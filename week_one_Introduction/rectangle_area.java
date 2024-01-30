@@ -2,6 +2,8 @@
 write a program to calculate area of a rectangle
  */
 
+import java.util.Scanner;
+
 public class rectangle_area {
     public static void main(String[] args) {
         Scanner myinput = new Scanner(System.in);
@@ -19,3 +21,4 @@ public class rectangle_area {
         System.out.println("The perimeter of the rectangle is :\t" + perimeter);
     }
 }
+
