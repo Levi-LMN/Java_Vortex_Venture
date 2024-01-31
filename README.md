@@ -32,6 +32,6 @@ This venture is not a solo mission – it's a collaborative effort. Open issues,
 Your insights can shape the course of the Java Vortex Venture, and together, we'll create a coding legacy.
 
 ## Licensing the Adventure
-This epic tale of code is licensed under the MIT License – your invitation to freely explore, modify, and share the magic of Java. See the LICENSE.md file for the nitty-gritty details.
+This epic tale of code is licensed under the [MIT License]() – your invitation to freely explore, modify, and share the magic of Java. See the LICENSE.md file for the nitty-gritty details.
 
 Are you ready to script, sail through challenges, and dance with the ever-evolving code? Brace yourself as we plunge headfirst into the Java Vortex Venture – where each keystroke is a step deeper into the coding unknown! 🚀🔍✨
