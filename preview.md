@@ -130,8 +130,8 @@ Understanding ORM concepts.
 Using JPA for database interaction.
 20. Advanced Topics (Choose Based on Interests):
 
-JavaFX for desktop application development.
-Java Security: Authentication, Authorization, Encryption.
+JavaFX for desktop application development.  
+Java Security:      Authentication, Authorization, Encryption.
 Java Microservices: Spring Cloud, Microservices Architecture.
 Performance optimization and profiling.
 21. Keep Learning and Building Projects:
