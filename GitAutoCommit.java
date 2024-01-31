@@ -1,3 +1,10 @@
+/*
+This is a file that can be run to automatically commit changes to a Git repository.
+It is intended to be used with a cron job or other scheduling program.
+It adds, commits, and pushes all unstaged changes in the repository.
+It uses the file name to generate a commit message.
+ */
+
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
