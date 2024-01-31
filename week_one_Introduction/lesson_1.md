@@ -15,7 +15,7 @@ High-Level Language:
 
 Java is considered a high-level programming language, meaning that it abstracts many low-level details, providing a more intuitive and user-friendly syntax. This characteristic simplifies the coding process and allows developers to focus on solving problems rather than managing hardware intricacies.
 Robustness:
-
+  
 One of the distinctive features of Java is its emphasis on robustness. The language includes built-in mechanisms for handling errors and exceptional situations, which contributes to the creation of reliable and fault-tolerant applications. The strict compile-time checking and runtime checking mechanisms in Java enhance the overall robustness of the code.
 Security:
 
