@@ -85,7 +85,9 @@ public class GitAutoCommit {
 
     private static void commitChanges(List<File> files) throws IOException, InterruptedException {
         for (File file : files) {
-            String commitMessage = file.getName() + " updated";
+            String fileNameWithoutExtension = getFileNameWithoutExtension(file);
+
+            String commitMessage = fileNameWithoutExtension + " updated";
 
             // Add changes
             ProcessBuilder addProcessBuilder = new ProcessBuilder("git", "add", file.getPath());
@@ -103,5 +105,12 @@ public class GitAutoCommit {
         Process pushProcess = pushProcessBuilder.start();
         pushProcess.waitFor();
     }
+
+    private static String getFileNameWithoutExtension(File file) {
+        String fileName = file.getName();
+        int lastDotIndex = fileName.lastIndexOf('.');
+        return lastDotIndex != -1 ? fileName.substring(0, lastDotIndex) : fileName;
+    }
+
 }
 
