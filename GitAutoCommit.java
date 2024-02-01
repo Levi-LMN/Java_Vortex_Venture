@@ -3,6 +3,7 @@ This is a file that can be run to automatically commit changes to a Git reposito
 It is intended to be used with a cron job or other scheduling program.
 It adds, commits, and pushes all unstaged changes in the repository.
 It uses the file name to generate a commit message.
+Thanks to https://stackoverflow.com/a/36376477/ for the idea.
  */
 
 import java.io.BufferedReader;
