@@ -10,7 +10,7 @@ acts as platforms on which applications runs.
 Introduction to Java: A Robust and Versatile Programming Language
 Java stands out as one of the most widely used and versatile programming languages in the software development landscape. Renowned for its high-level nature, robustness, security features, and object-oriented paradigm, Java has become a cornerstone in the creation of a myriad of applications, from enterprise-level systems to mobile applications.
 
-Key Characteristics of Java
+# Key Characteristics of Java
 High-Level Language:
 
 Java is considered a high-level programming language, meaning that it abstracts many low-level details, providing a more intuitive and user-friendly syntax. This characteristic simplifies the coding process and allows developers to focus on solving problems rather than managing hardware intricacies.
@@ -26,7 +26,7 @@ Java follows the object-oriented programming (OOP) paradigm, where software is s
 Java as a Platform
 Apart from being a programming language, Java is also recognized as a platform. A platform, in the context of software development, refers to the hardware or software environment in which a program runs. Unlike some other languages that are tied to specific operating systems, Java's platform independence is a key advantage.
 
-Java Runtime Environment (JRE):
+# Java Runtime Environment (JRE):
 
 Java's platform independence is facilitated by its own runtime environment, known as the Java Runtime Environment (JRE). The JRE provides the necessary runtime libraries and components for executing Java applications. This decouples Java programs from the underlying hardware and operating system, allowing them to run on any device with a compatible JRE.
 Application Programming Interface (API):
