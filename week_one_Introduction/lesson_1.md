@@ -32,3 +32,5 @@ Java's platform independence is facilitated by its own runtime environment, know
 Application Programming Interface (API):
 
 Java's platform is further enriched by its extensive Application Programming Interface (API). The API provides a set of pre-built classes and libraries that simplify common programming tasks. This extensive collection of reusable components empowers developers to build applications efficiently, reducing development time and promoting code standardization.
+
+# The end
