@@ -54,3 +54,26 @@ public static void main(String[] args) {
 The output will be 4.
 
 ## Loop Through an Array
+You can loop through the array elements with the for loop:  
+```java
+public static void main(String[] args) {
+    String[] cars = {"Volvo", "BMW", "Ford", "Mazda"};
+    for (int i = 0; i < cars.length; i++) {
+        System.out.println(cars[i]);
+    }
+}
+```
+This will print all the elements of the cars array.
+
+## for each Loop
+There is also a "for-each" loop, which is used exclusively to loop through elements in arrays:  
+```java
+public static void main(String[] args) {
+    String[] cars = {"Volvo", "BMW", "Ford", "Mazda"};
+    for (String i : cars) {
+        System.out.println(i);
+    }
+}
+```
+The output will be the same as the previous example.
+
