@@ -43,3 +43,14 @@ public static void main(String[] args) {
 it will print out "Opel" instead of "Volvo".
 
 ## Array Length
+To find out how many elements an array has, use the length property:  
+```java
+public static void main(String[] args) {
+    String[] cars = {"Volvo", "BMW", "Ford", "Mazda"};
+    System.out.println(cars.length);
+    }
+}
+```
+The output will be 4.
+
+## Loop Through an Array
