@@ -77,3 +77,42 @@ public static void main(String[] args) {
 ```
 The output will be the same as the previous example.
 
+## Multidimensional Arrays
+A multidimensional array is an array containing one or more arrays.  
+To create a two-dimensional array, add each array within its own set of curly braces:  
+```java
+int[][] myNumbers = { {1, 2, 3, 4}, {5, 6, 7} };
+int x = myNumbers[1][2];
+System.out.println(x);
+```
+The output will be 7.
+
+## Java Array Methods
+There are many methods that can be used with arrays. Here are a few examples:  
+```java
+import java.util.Arrays; // This is needed to use the Arrays class
+public class Main {
+    public static void main(String[] args) {
+        int[] myNumbers = {1, 2, 3};
+        System.out.println(myNumbers[0]); // Outputs 1
+        // We use the Arrays.toString() method to convert the array to a string.
+        System.out.println(Arrays.toString(myNumbers)); // Outputs [1, 2, 3]
+    }
+}
+```
+The Arrays class has several methods that can be used to perform certain operations on arrays, such as sorting, searching, and others.  
+```java
+import java.util.Arrays; // This is needed to use the Arrays class
+public class Main {
+    public static void main(String[] args) {
+        int[] myNumbers = {1, 2, 3};
+        System.out.println(myNumbers[0]); // Outputs 1
+        // We use the Arrays.toString() method to convert the array to a string.
+        System.out.println(Arrays.toString(myNumbers)); // Outputs [1, 2, 3]
+        Arrays.sort(myNumbers);
+        System.out.println(Arrays.toString(myNumbers)); // Outputs [1, 2, 3]
+    }
+}
+```
+
+
