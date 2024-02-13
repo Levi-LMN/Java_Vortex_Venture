@@ -29,3 +29,17 @@ public static void main(String[] args) {
     }
 }
 ```
+
+## Change an Array Element
+You can change the value of a specific element by referring to the index number:  
+```java
+public static void main(String[] args) {
+    String[] cars = {"Volvo", "BMW", "Ford", "Mazda"};
+    cars[0] = "Opel";
+    System.out.println(cars[0]);
+    }
+}
+```
+it will print out "Opel" instead of "Volvo".
+
+## Array Length
