@@ -44,8 +44,8 @@ class Rectangle {
     // Setter method for length
     public void setLength(int l) {
         length = l;
-    }
-}
+    }//end of method
+}//end of class
 
 // Class RectMain to implement the Rectangle class
 public class RectMainTwo {
